@@ -1,5 +1,5 @@
 # hackthebox
-all commands found till nowk
+all commands found till now
 sudo openvpn {file.ovpn}
 
 
